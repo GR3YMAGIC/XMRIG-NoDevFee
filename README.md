@@ -1,7 +1,7 @@
 # XMRIG-NoDevFee
 No Developer Fee! 
 
-
+XMRig High performance, open source, cross platform RandomX, CryptoNight and Argon2 CPU/GPU miner, with official support for Windows.
 
 
 ```
