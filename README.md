@@ -78,3 +78,8 @@ Misc:
   -h, --help                    display this help and exit
       --dry-run                 test configuration and exit
       --export-topology         export hwloc topology to a XML file and exit
+
+Donations
+
+    XMR: 89gJHcA2N6Z43JSW5ehcmESt1tr3XKgrB15iWUtTMqtp1s94NEo4Q1Uam8qn1NqfwEHiYbqBT1MWb9xrNwx21LwP3zxMoQL
+    BTC: 1EYxMEk7p9w8a41fSdMsJpPe15LGDK6MmC
