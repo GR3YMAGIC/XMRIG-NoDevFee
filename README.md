@@ -4,10 +4,8 @@ no donation, no developer fee!
 
 
 
-
-
-
-Command line options
+```
+Command Line Options
 
 Network:
   -o, --url=URL                 URL of mining server
