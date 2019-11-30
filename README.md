@@ -6,7 +6,7 @@ XMRig High performance, open source, cross platform RandomX, CryptoNight and Arg
 
 Download
 
-    Binary releases:https://github.com/GR3YMAGIC/XMRIG-NoDevFee/Releases
+    Binary releases: https://github.com/GR3YMAGIC/XMRIG-NoDevFee/releases
 
 ```
 Command Line Options
