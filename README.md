@@ -1,5 +1,5 @@
 # XMRIG-NoDevFee
-no donation, no developer fee! 
+No Developer Fee! 
 
 
 
